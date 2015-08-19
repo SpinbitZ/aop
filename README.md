@@ -1,6 +1,6 @@
 aop.js
 ========
-aop.js is a simple aop, can be run inside Node.js or in a browser.
+Based on node-aop (Wang) as embryon seed...
 
 ##install
 In a browser

@@ -1,14 +1,14 @@
 {
-  "name": "node-aop",
-  "description": "js aop(node-aop) is a aop helper library for JavaScript, can be run inside Node.js or in a browser.",
+  "name": "embryon-aop",
+  "description": "Based on node-aop (Wang) as embryon seed...",
   "author": {
-    "name": "Linus Wang"
+    "name": ""
   },
   "version": "0.1.1",
   "main": "aop.js",
   "repository": {
 	"type": "git",
-	"url": "git://github.com/notejs/aop.git"
+	"url": "https://github.com/SpinbitZ/aop.git"
   },
   "keywords": [
     "aop",
